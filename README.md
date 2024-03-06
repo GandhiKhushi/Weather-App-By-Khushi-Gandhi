@@ -11,7 +11,9 @@ I am excited to share my latest project, a Weather Assistant App developed using
 **Tech Stack:**
 
 Programming Language: Python
+
 text-to-Speech (TTS): Python pyttsx3 and requests module are Used.
+
 Weather Data API: API used for real-time weather data.
 
 I'm proud of what the Weather Assistant App has achieved so far and look forward to further refining and expanding its capabilities. If you have any feedback or suggestions, feel free to reach out! 🌐
